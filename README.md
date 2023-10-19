@@ -1,6 +1,6 @@
 # Module: Build a Multi-Region Serverless Application for Resilience and High Availability
 
-In this workshop you will use Amazon API Gateway, AWS Lambda and Amazon
+In this project we will use Amazon API Gateway, AWS Lambda and Amazon
 DynamoDB to build a Customer Ticketing application so we can provide a great
 experience to Wild Rydes users.
 
@@ -103,7 +103,7 @@ allow users to login with an existing account. In order to set this up you
 will need a Facebook Developer account.  You may set up the account now, but
 do not start configuring anything else yet.
 
-You can sign up using [this link](https://developers.facebook.com/docs/apps/register/).
+Sign up link: (https://developers.facebook.com/docs/apps/register/).
 
 Note that you will create the App ID later on in this guide using the
 website URL you will set up in Module 2.
@@ -115,7 +115,7 @@ Please use only Chrome or Firefox browsers.
 
 ### AWS Cloud9 for AWS Command Line Interface
 
-To complete parts of this workshop you'll need the AWS Command Line Interface
+To complete parts of this project we'll need the AWS Command Line Interface
 (CLI). The front end application is written in AngularJS and requires node and npm. To avoid spending time on configuring your laptop, we will use [AWS Cloud9](https://aws.amazon.com/cloud9/) as our IDE. It has AWS CLI preconfigured.
 
 Follow the instruction [here to launch a AWS Cloud9 IDE](0_Cloud9/README.md) before we start the lab. Once you have AWS Cloud9 and `nodejs` installed, you can start the lab.
